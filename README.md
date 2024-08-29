@@ -13,6 +13,8 @@ Já tive experiências como Tester de Software, trabalhando em diversos projetos
 </h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-walter-regner-neto-661407294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alfredo_regner?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
 
 
 
